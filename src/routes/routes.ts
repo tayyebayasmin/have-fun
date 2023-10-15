@@ -1,0 +1,21 @@
+enum ScreenNames {
+  LOGIN = 'Login',
+  FORGOT_PASSWORD = 'ForgotPassword',
+  STARTUP = 'Startup',
+  VERIFY = 'Verify',
+  SIGNUP = 'SIGNUP',
+  HOME = 'Home',
+  BOTTOM_TAB = 'BottomTab',
+  MATCH = 'Match',
+  MATCHES = 'Matches',
+  MATCH_PROFILE_DETAIL = 'MatchProfileDetail',
+  CHAT = 'Chat',
+  CHATING = 'Chating',
+  PROFILE = 'Profile',
+  EDIT_PROFILE = 'EditProfile',
+  BODY_TYPE_WOMAN = 'BodyTypeWoman',
+  BODY_TYPE_MAN = 'BodyTypeManScreen',
+  CHOOSE_LANGUAGE = 'ChooseLanguages',
+  SETTINGS = 'Settings',
+}
+export default ScreenNames;
